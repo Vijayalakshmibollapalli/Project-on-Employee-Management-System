@@ -69,8 +69,6 @@ The tables are connected using **Primary Keys and Foreign Keys** to maintain rel
 * **MySQL**
 * SQL (Joins, Aggregations, Group By, Subqueries, Data Cleaning)
 
----
-
 ## 📚 SQL Concepts Covered
 
 * `SELECT`
@@ -86,8 +84,6 @@ The tables are connected using **Primary Keys and Foreign Keys** to maintain rel
 * String functions (`SUBSTRING_INDEX`, `TRIM`, `REPLACE`)
 * Date functions (`YEAR()`, `MONTH()`)
 
-
-
 ## 🎯 Learning Outcomes
 
 * Designed a relational database schema
@@ -95,8 +91,6 @@ The tables are connected using **Primary Keys and Foreign Keys** to maintain rel
 * Performed HR data analysis using SQL
 * Extracted business insights from structured data
 * Improved query optimization and data handling skills
-
----
 
 ## 🚀 How to Run the Project
 
@@ -106,19 +100,6 @@ The tables are connected using **Primary Keys and Foreign Keys** to maintain rel
 4. Execute analysis queries.
 5. Review outputs and insights.
 
----
-
 ## 📌 Conclusion
 
 This project demonstrates how SQL can be effectively used to manage employee records and perform business analysis for workforce planning, compensation management, and payroll tracking.
-
----
-
-If you want, I can also:
-
-* Add **professional badges**
-* Add a **project folder structure**
-* Create a **short LinkedIn project description**
-* Make a **resume-ready project description (4 lines)**
-
-Just tell me 😊
